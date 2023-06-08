@@ -1,4 +1,4 @@
-package lesson_2_hw;
+package algoritms.lesson_2_hw;
 
 import java.util.Arrays;
 

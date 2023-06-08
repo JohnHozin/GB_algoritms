@@ -1,4 +1,4 @@
-package lesson_4;
+package algoritms.lesson_4;
 
 import java.util.List;
 
